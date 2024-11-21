@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Rohit Chavan
+@author: Rhutuja Bendre
 """
 
 '''It is another way of creating iterators
