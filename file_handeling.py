@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Rohit Chavan
+@author: Rhutuja Bendre
 """
 
 with open('C:/Machine_Learning_Nowwww/new rohit data science/Basic/pi_digits.txt') as f:
